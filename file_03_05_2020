@@ -1,1 +1,6 @@
 creating aws resources
+vpc
+igw
+rts
+nacl
+subnet
